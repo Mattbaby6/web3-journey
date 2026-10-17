@@ -24,5 +24,6 @@
 //  ↓↓↓ 从这一行下面开始粘贴 ↓↓↓
 // ============================================================
 const myName = "Matt";
-const myStr = "My name is" +myName+ "and I an well!";
+const myStr = "My name is "+myName+" and I am well!";
+
 
